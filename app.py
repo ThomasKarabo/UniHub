@@ -39,5 +39,17 @@ def resource_page():
 def resources():
     return render_template('resources.html')
 
+@app.route('/home/opportunities')
+def opportunities():
+    return render_template('opportunities.html')
+
+@app.route('/home/community')
+def community():
+    return '<p>Community page is under construction.</p>'
+
+@app.route('/home/mentorship')
+def mentorship():
+    return '<p>Mentorship page is under construction.</p>'
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
