@@ -45,7 +45,8 @@ def opportunities():
 
 @app.route('/home/community')
 def community():
-    return '<p>Community page is under construction.</p>'
+    return render_template('community.html')
+
 
 @app.route('/home/mentorship')
 def mentorship():
