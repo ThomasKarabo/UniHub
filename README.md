@@ -27,17 +27,6 @@ The goal of UniHub is to:
 - Improve administrative efficiency through automation and better communication.
 - Foster a sense of community within the campus.
 
-## Getting Started
-
-> **Note:** This repository is in early development. Contributions, feedback, and collaboration are welcome!
-
-1. Clone the repo:
-    ```bash
-    git clone https://github.com/ThomasKarabo/UniHub.git
-    cd UniHub
-    ```
-2. Set up your development environment as described in the [CONTRIBUTING.md](CONTRIBUTING.md) (if available).
-3. Explore the codebase and project structure.
 
 ## Contributing
 
@@ -46,10 +35,6 @@ We welcome contributions from students, developers, and university IT profession
 - Check open issues or request new features.
 - Fork the repo and submit a pull request.
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for coding guidelines (if available).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
