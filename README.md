@@ -28,14 +28,6 @@ The goal of UniHub is to:
 - Foster a sense of community within the campus.
 
 
-## Contributing
-
-We welcome contributions from students, developers, and university IT professionals! To get involved:
-
-- Check open issues or request new features.
-- Fork the repo and submit a pull request.
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for coding guidelines (if available).
-
 ## Contact
 
 For queries or suggestions, please open an issue or contact the repository owner.
